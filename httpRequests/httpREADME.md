@@ -1,7 +1,7 @@
 WHAT'S THIS?
 ============
 
-* Both of these files rely on `process.argv[2]` in order to process with URL to `get` from. 
+* Both of these files rely on `process.argv[2]` in order to process which URL to `get` from. 
 * Both `console.log` the same thing (which is whatever is received from the url)
 * Both `require` the module `request` which must be installed with `npm install request`
 
