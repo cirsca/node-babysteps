@@ -1,0 +1,11 @@
+{
+  "name": "project-stealdadsdata",
+  "version": "1.0.0",
+  "description": "A learning project to understand the basics of Node, Express, and MOngoDB along with CRUD operations and responding to GET external APIs.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Tim Roberts",
+  "license": "ISC"
+}
