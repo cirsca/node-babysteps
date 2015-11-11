@@ -8,4 +8,6 @@ request(url, function(error,response,body){
   }else {
     console.log(body);
   }
-}); 
+});
+
+modules.exports = request;
